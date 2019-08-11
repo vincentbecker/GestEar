@@ -1,0 +1,9 @@
+No gesture
+Snap left
+Snap right
+Knock left
+Knock right
+Knock left 2x
+Knock right 2x
+Clap
+Clap 2x
