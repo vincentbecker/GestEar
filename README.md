@@ -4,6 +4,9 @@ Repository containing the code for the ISWC'19 paper: "GestEar: Combining Audio 
 
 Contact by [email](mailto:vincent.becker@inf.ethz.ch).
 
+Click on the image to see the Youtube project video:
+<p align="center"><a href="http://www.youtube.com/watch?v=cfT4eOho6v4"><img src="http://img.youtube.com/vi/cfT4eOho6v4/0.jpg" title="Youtube project video" alt="Youtube project video"></a></p>
+
 The goal of this project is to classify hand gestures on a smartwatch based on the emitted audio and IMU data. Our classifier distinguishes eigth gestures: snapping left, snapping right, knocking left, knocking left twice, knocking right, knocking rith twice, clapping, and clapping right twice.
 
 You can use a Android Wear smartwatch with a microphone and IMU sensor. We used a Sony smartwatch 3. 
